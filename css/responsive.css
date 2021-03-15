@@ -1132,38 +1132,7 @@ margin-top: 38px;
     /* ==========course part start======== */
 
 
-    #course-part .prev {
-        width: 50px;
-        height: 50px;
-        border: 1px solid #2d3e50;
-        border-radius: 50%;
-        text-align: center;
-        line-height: 50px;
-        z-index: 2;
-        position: absolute;
-        top: 105%;
-        left: 40%;
-        
-        transition: .5s;
-        color: #2d3e50;
-        font-size: 30px;
-        margin-bottom: 20px;
-    }
-    #course-part .next {
-        width: 50px;
-        height: 50px;
-        border: 1px solid #2d3e50;
-        border-radius: 50%;
-        text-align: center;
-        line-height: 50px;
-        color: #2d3e50;
-        position: absolute;
-        top: 105%;
-        right: 40%;
-       
-        transition: .5s;
-        font-size: 30px;
-    }
+   
     #counter-part .iteam p{
         font-size: 20px ;
     }
@@ -1440,38 +1409,7 @@ margin-top: 38px;
    /* ==========course part start======== */
 
 
-   #course-part .prev {
-       width: 50px;
-       height: 50px;
-       border: 1px solid #2d3e50;
-       border-radius: 50%;
-       text-align: center;
-       line-height: 50px;
-       z-index: 2;
-       position: absolute;
-       top: 105%;
-       left: 40%;
-       
-       transition: .5s;
-       color: #2d3e50;
-       font-size: 30px;
-       margin-bottom: 20px;
-   }
-   #course-part .next {
-       width: 50px;
-       height: 50px;
-       border: 1px solid #2d3e50;
-       border-radius: 50%;
-       text-align: center;
-       line-height: 50px;
-       color: #2d3e50;
-       position: absolute;
-       top: 105%;
-       right: 40%;
-      
-       transition: .5s;
-       font-size: 30px;
-   }
+
    #counter-part .iteam p{
        font-size: 20px ;
    }

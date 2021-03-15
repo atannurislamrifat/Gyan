@@ -8,27 +8,7 @@ $('.slider').slick({
     nextArrow:'<i class="fas fa-angle-right next"></i>',
     responsive: [
 
-      {
-        breakpoint: 1399,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: true,
-          arrows:false,
-        }
-      },
 
-      {
-        breakpoint: 1199,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: true,
-          arrows:false,
-        }
-      },
       
       
       {
@@ -109,7 +89,7 @@ $('.course-slider').slick({
         slidesToScroll: 1,
         infinite: true,
         arrows:true,
-        dots: false,
+        dots:false,
         centerMode:false,
         centerPadding:"0",
 
