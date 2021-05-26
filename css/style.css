@@ -39,6 +39,9 @@ h1,h2,h3,h4,h5,h6,p{
     padding-bottom: 70px;
 
 }
+body{
+    overflow-x: hidden;
+}
 
 /* ==================================
         header part css start
@@ -222,7 +225,7 @@ nav .button a:hover{
     z-index: 2;
     position: absolute;
     top: 50%;
-    left: 30px;
+    left: 8px;
     transform: translateY(-50%);
     transition: .5s;
     font-size: 30px;
@@ -673,7 +676,7 @@ nav .button a:hover{
     z-index: 2;
     position: absolute;
     top: 50%;
-    left: -100px;
+    left: -59px;
     transform: translateY(-50%);
     transition: .5s;
     color:#2d3e50;
@@ -696,7 +699,7 @@ nav .button a:hover{
     
     position: absolute;
     top: 50%;
-    right: -100px;
+    right: -59px;
     transform: translateY(-50%);
     transition: .5s;
     font-size: 30px;
@@ -951,7 +954,7 @@ position: relative;
     z-index: 2;
     position: absolute;
     top: 70%;
-    left: -77px;
+    left: -72px;
     transform: translateY(-50%);
     transition: .5s;
 }
@@ -972,7 +975,7 @@ position: relative;
     
     position: absolute;
     top: 25%;
-    left: -77px;
+    left: -72px;
     transform: translateY(-40%);
     transition: .5s;
 }
